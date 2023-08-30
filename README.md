@@ -1,7 +1,7 @@
-[![MasterHead](https://img.freepik.com/premium-photo/cartoon-man-working-computer_912214-932.jpg?w=900)]
+
 <h1 align="center">Hi 👋, I'm Qaisar Nadeem</h1>
 <h3 align="center">A passionate MERN Stack Developer from Pakistan</h3>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://img.freepik.com/premium-photo/cartoon-man-working-computer_912214-932.jpg?w=900)" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisarnadeem16&label=Profile%20views&color=0e75b6&style=flat" alt="qaisarnadeem16" /> </p>
 
 <p align="left"> <a href="https://twitter.com/qisrgill1" target="blank"><img src="https://img.shields.io/twitter/follow/qisrgill1?logo=twitter&style=for-the-badge" alt="qisrgill1" /></a> </p>
