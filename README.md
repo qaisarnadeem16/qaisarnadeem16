@@ -5,9 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qaisarnadeem16&label=Profile%20views&color=0e75b6&style=flat" alt="qaisarnadeem16" /> </p>
 
 <p align="left"> <a href="https://twitter.com/qisrgill1" target="blank"><img src="https://img.shields.io/twitter/follow/qisrgill1?logo=twitter&style=for-the-badge" alt="qisrgill1" /></a> </p>
-
-- 
-
 - 📫 How to reach me **round2developer@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10WPZ5mC6x4BtSf9IWZzHHhB5RHTJNw8H/view?usp=sharing](https://drive.google.com/file/d/10WPZ5mC6x4BtSf9IWZzHHhB5RHTJNw8H/view?usp=sharing)
