@@ -6,11 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/qisrgill1" target="blank"><img src="https://img.shields.io/twitter/follow/qisrgill1?logo=twitter&style=for-the-badge" alt="qisrgill1" /></a> </p>
 
-- 🔭 I’m currently working on [Full stack NFT Web App](https://2nd-world.vercel.app/)
-
-- 🌱 I’m currently learning **React Native, Angular**
-
-- 💬 Ask me about **React and Next.js , Node.js**
+- 
 
 - 📫 How to reach me **round2developer@gmail.com**
 
